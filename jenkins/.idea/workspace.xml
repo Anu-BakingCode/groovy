@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81758bb8-18f0-4878-83f7-1a79b6bb8de0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1VtAWIw9sCc1XaBNqNISbQQVxUc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81758bb8-18f0-4878-83f7-1a79b6bb8de0" name="Default Changelist" comment="" />
+      <created>1578062047744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578062047744</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="58" width="800" height="677" key="#Project_Structure" timestamp="1578155378510">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="304" y="58" width="800" height="677" key="#Project_Structure/53.27.1313.741@53.27.1313.741" timestamp="1578155378510" />
+    <state x="428" y="201" width="552" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578062532133">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="428" y="201" width="552" height="390" key="#com.intellij.fileTypes.FileTypeChooser/53.27.1313.741@53.27.1313.741" timestamp="1578062532133" />
+    <state x="365" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578152743188">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="365" y="224" key="com.intellij.ide.util.TipDialog/53.27.1313.741@53.27.1313.741" timestamp="1578152743188" />
+    <state x="372" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578162482987">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="372" y="89" width="672" height="678" key="search.everywhere.popup/53.27.1313.741@53.27.1313.741" timestamp="1578162482987" />
+  </component>
+</project>
